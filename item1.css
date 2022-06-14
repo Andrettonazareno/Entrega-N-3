@@ -1,0 +1,29 @@
+#item1 {
+    background-image: url('./../img/CANELO\ .jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+#item1 div {
+    font-family: fantasy;
+    font-size: 250%;
+    padding-right: 30px;
+    text-align: center;
+    position: absolute;
+    left: 100px;
+    bottom: 5%;
+    color: white;
+}
+
+#item1 p {
+    font-family: fantasy;
+    font-size: 150%;
+    padding-right: 30px;
+    text-align: center;
+    position: absolute;
+    left: 100px;
+    bottom: 5%;
+    color: white;
+}

@@ -1,0 +1,23 @@
+#item2 {
+    text-align: center;
+    background-color: white;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#item2 img {
+    position: relative;
+    left: 20px;
+    font-size: 1rem;
+    margin: 2rem 1.5rem 1rem o.5rem;
+}
+ 
+#item2 p {
+    font-size: 120%;
+}
+
+#item2 h2 {
+    font-size: 300%;
+}
